@@ -1,8 +1,8 @@
-app_name = "freightify"
-app_title = "Freightify"
+app_name = "allmasters"
+app_title = "AllMasters"
 app_publisher = "Freightify"
 app_description = "An App for Import/Export of Goods"
-app_email = "info@tridotstech.com"
+app_email = "swami@freightify.com"
 app_license = "mit"
 # required_apps = []
 

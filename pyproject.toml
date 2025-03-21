@@ -1,7 +1,7 @@
 [project]
-name = "freightify"
+name = "allmasters"
 authors = [
-    { name = "Freightify", email = "info@tridotstech.com"}
+    { name = "Freightify", email = "swami@freightify.com"}
 ]
 description = "An App for Import/Export of Goods"
 requires-python = ">=3.10"
